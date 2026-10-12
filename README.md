@@ -5,7 +5,8 @@
 | Nền tảng | Tải về | Dung lượng |
 |---|---|---|
 | Android | [ThanhDi-Com_v121026.apk](https://github.com/kietsieudz/Download-Game/raw/main/v121026/ThanhDi-Com_v121026.apk) | 36,8 MB |
-| PC (Windows 64-bit) | [ThanhDi-Com_v121026_PC.zip](https://github.com/kietsieudz/Download-Game/raw/main/v121026/ThanhDi-Com_v121026_PC.zip) | 34 MB |
+| PC (Windows 64-bit) - ZIP | [ThanhDi-Com_v121026_PC.zip](https://github.com/kietsieudz/Download-Game/raw/main/v121026/ThanhDi-Com_v121026_PC.zip) | 34 MB |
+| PC (Windows 64-bit) - RAR | [ThanhDi-Com_v121026_PC.rar](https://github.com/kietsieudz/Download-Game/raw/main/v121026/ThanhDi-Com_v121026_PC.rar) | 27,9 MB |
 
 PC: giải nén rồi chạy `ThanhDi-Com_v121026.exe`. Android: cho phép cài ứng dụng không rõ nguồn gốc rồi mở file APK.
 
